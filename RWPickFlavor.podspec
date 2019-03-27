@@ -14,14 +14,14 @@ s.version = "0.1.0"
 s.license = { :type => "MIT", :file => "LICENSE" }
 
 # 4 - Replace with your name and e-mail address
-s.author = { "Róbert Oravec" => "roravec141@gmail.com" }
+s.author = { "Róbert Oravec" => "oravec@reinto.cz" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
 s.homepage = "https://github.com/oravecRobert/RWPickFlavorTutorial"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/oravecRobert/RWPickFlavorTutorial.git",
-:tag => "#{s.version}" }
+             :tag => "#{s.version}" }
 
 # 7
 s.framework = "UIKit"

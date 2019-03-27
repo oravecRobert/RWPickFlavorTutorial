@@ -18,7 +18,7 @@
                         <viewControllerLayoutGuide type="bottom" id="MIH-OU-SkA"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="3Oz-Zq-ubG">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="603"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="FYu-FJ-7gm">
